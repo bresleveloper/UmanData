@@ -4,4 +4,4 @@
 
 גלישה לאתר
 
-(https://umandata.com/)[https://umandata.com/]
+[https://umandata.com/](https://umandata.com/)
